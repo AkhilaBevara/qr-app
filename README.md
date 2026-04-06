@@ -23,6 +23,9 @@ A simple and powerful QR Code Generator built using **HTML, CSS, and JavaScript*
 - QR Code Styling Library
 
 ---
+## live at:
+
+https://akhilabevara.github.io/qr-app/
 
 ## 🔑 Default Login Credentials
 - Username: admin
@@ -64,7 +67,4 @@ git clone https://github.com/your-username/qr-generator-app.git
 
 - 🗄️ Save QR history
 
-- 🌐 Deploy live (Netlify / Vercel)
-
 - 🔐 Real authentication system
-- 
